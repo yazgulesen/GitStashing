@@ -9,6 +9,9 @@ public class Stashing {
         car.engineCapac="V8";
         car.headlights="blue";
         car.regNo="tuzik";
+        System.out.println("welcome to my car");
+        System.out.println("radio is set to 80MHZ");
+        System.out.println("Turn on air conditioner");
 
     }
 }
